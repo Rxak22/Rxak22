@@ -17,7 +17,7 @@
 ## 👋 About Me
 Hi! I'm **Ouk Narak**, a passionate web developer building modern, clean, and elegant web applications.  
 
-- 💻 Full-stack developer  
+- 💻 Full-stack Web developer  
 - 🧰 Skills: HTML, CSS, JavaScript, jQuery, Vue.js, TypeScript, PHP, Laravel, C#, .NET, Git, Tailwind CSS  
 - 🐳 Currently learning Docker  
 - ⚡ In my free time: I explore modern tech, experiment with animations, and create projects with aesthetic UI  
