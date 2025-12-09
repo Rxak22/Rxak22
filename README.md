@@ -66,7 +66,7 @@ Hi! I'm **Ouk Narak**, a passionate web developer building modern, clean, and el
 
 - 🚀 **Phone Shop Management System** – ASP.NET Core + Vue.js + TypeScript + SQL Server + Tailwind CSS  
 - 📱 **Vue Todo App** – Simple and interactive todo app with mini Api using `ASP.NET`.  
-- 🎓 **Student Management System (Laravel)** – CRUD, roles, and class management  
+- 🎓 **School Management System (Laravel)** – CRUD, roles, and class management, ...  
 - 🌐 **Portfolio Website** – Responsive personal portfolio  
 
 ---
